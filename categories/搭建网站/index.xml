@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>搭建网站 on Strive236&#39;s Blog</title>
+    <link>https://Strive236.github.io/categories/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</link>
+    <description>Recent content in 搭建网站 on Strive236&#39;s Blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jul 2024 21:40:33 +0800</lastBuildDate>
+    <atom:link href="https://Strive236.github.io/categories/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客初始化</title>
+      <link>https://Strive236.github.io/posts/tech/start/</link>
+      <pubDate>Fri, 26 Jul 2024 21:40:33 +0800</pubDate>
+      <guid>https://Strive236.github.io/posts/tech/start/</guid>
+      <description>感慨 花了一个晚上终于使用github pages + hugo成功搭建好了blog 参考文献 [1] cuttontail&amp;rsquo;s blog [2] PaperMod主题官方文档 [3] sulv&amp;rsquo;s blog [4] shaohanyun&amp;rsquo;s blog</description>
+    </item>
+  </channel>
+</rss>
