@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on Strive236&#39;s Blog</title>
-    <link>https://Strive236.github.io/posts/tech/</link>
+    <link>https://Strive236.github.io/categories/tech/</link>
     <description>Recent content in Tech on Strive236&#39;s Blog</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jul 2024 21:26:52 +0800</lastBuildDate>
-    <atom:link href="https://Strive236.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Strive236.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSAPP 开始 &amp;&amp; Lab1 过程与收获</title>
       <link>https://Strive236.github.io/posts/tech/csapp-lab1/</link>
       <pubDate>Tue, 30 Jul 2024 19:51:36 +0800</pubDate>
       <guid>https://Strive236.github.io/posts/tech/csapp-lab1/</guid>
       <description>CSAPP Lab1 过程和收获</description>
-    </item>
-    <item>
-      <title>博客初始化</title>
-      <link>https://Strive236.github.io/posts/tech/start/</link>
-      <pubDate>Fri, 26 Jul 2024 21:40:33 +0800</pubDate>
-      <guid>https://Strive236.github.io/posts/tech/start/</guid>
-      <description>感慨 花了一个晚上终于使用github pages + hugo成功搭建好了blog 参考文献 [1] cuttontail&amp;rsquo;s blog [2] PaperMod主题官方文档 [3] sulv&amp;rsquo;s blog [4] shaohanyun&amp;rsquo;s blog</description>
     </item>
   </channel>
 </rss>

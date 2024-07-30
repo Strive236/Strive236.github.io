@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSAPP on Strive236&#39;s Blog</title>
+    <link>https://Strive236.github.io/tags/csapp/</link>
+    <description>Recent content in CSAPP on Strive236&#39;s Blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jul 2024 21:26:52 +0800</lastBuildDate>
+    <atom:link href="https://Strive236.github.io/tags/csapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSAPP 开始 &amp;&amp; Lab1 过程与收获</title>
+      <link>https://Strive236.github.io/posts/tech/csapp-lab1/</link>
+      <pubDate>Tue, 30 Jul 2024 19:51:36 +0800</pubDate>
+      <guid>https://Strive236.github.io/posts/tech/csapp-lab1/</guid>
+      <description>CSAPP Lab1 过程和收获</description>
+    </item>
+  </channel>
+</rss>
