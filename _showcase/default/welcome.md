@@ -17,7 +17,7 @@ date: 2099-03-06 14:21:00 +0800
         "The ups and downs of life should be recognized."
     </p>
     <p>
-        Thank you for watching
+        Thank you for watching.
     </p>
     <!-- <p>
         Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
