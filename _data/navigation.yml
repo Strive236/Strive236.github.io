@@ -5,5 +5,7 @@ pages:
   url: /
 - name: Publications
   url: /publications
+- name: Blog
+  url: http://blog.strive236.top/
 - name: Showcase
   url: /showcase
