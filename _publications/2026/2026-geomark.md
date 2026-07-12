@@ -7,6 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2026"
 abstract: >-
   GeoMark protects embedding-as-a-service models through geometry-aware, localized watermarking: adaptive neighborhoods determine where the watermark is activated, while a natural in-manifold target and geometry-separated anchors provide reliable ownership attribution. Experiments on four benchmarks show strong utility preservation and robust verification against paraphrasing, dimensional perturbation, and CSE attacks, with a low false-positive risk.
+cover:          /assets/images/covers/geomark.png
 authors:
   - Zhimin Chen
   - Xiaojie Liang
